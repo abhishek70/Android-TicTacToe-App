@@ -1,2 +1,4 @@
 # Android-TicTacToe-App
 Tic-Tac-Toe Android App
+
+![Screeshot](https://github.com/abhishek70/Android-TicTacToe-App/blob/master/screenshot_1.png)
